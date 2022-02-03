@@ -1,0 +1,80 @@
+:root {
+
+    --preto: #000000;
+    --branco: #ffffff;
+    --red: #fd0d0d;
+    --green: #53d642;
+}
+
+* {
+    color: var(--preto);
+    font-family:'Trebuchet MS';
+    
+}
+
+body {
+
+    background: var(--branco);
+}
+
+
+
+ul {
+    
+    font-family: 'Trebuchet MS';
+    color:var(--xablauFontColor);
+}
+
+li {
+
+    
+    list-style: circle;
+    font-family:Verdana;
+    color:var(--xablauFontColor);
+}
+
+.list {
+list-style: square;
+}
+
+
+
+
+.tema-MEUS-OLHOS {
+
+    color:var(--branco);
+    background-color: var(--branco);
+    --trocaBg: var(--green);
+    --trocaFontColor: var(--preto);
+    
+    
+
+}
+
+.tema-dark {
+    color:var(--green);
+    background-color: var(--preto);
+    --trocaBg: var(--green);
+    --trocaFontColor: var(--preto);
+    --xablauFontColor: var(--green);
+    
+    
+}
+
+
+h1 { color:var(--xablauFontColor); }
+
+.troca {
+
+    height: 50px;
+    width: 50px;
+    border: none;
+    color:var(--trocaFontColor);
+    background-color: var(--trocaBg);
+    
+}
+
+.troca:focus {
+    outline-style: none;
+    
+}
