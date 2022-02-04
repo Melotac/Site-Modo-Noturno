@@ -3,6 +3,7 @@
 
 # Sobre
 Basicamente aquela função de 'apagar luzes' que alguns sites tem. Feito em javascript, css & html.
+Você aperta o botão, e o site entra em modo noturno.
 
 # Por que?
 Muitas pessoas, (EU), não gostam de temas claros. Incomoda demais a vista... -,-
