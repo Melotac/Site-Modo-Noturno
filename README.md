@@ -10,7 +10,7 @@ Você aperta o botão, e o site entra em modo noturno.
 Muitas pessoas, (EU), não gostam de temas claros. Incomoda demais a vista... -,-
 
 # Resultado
-<a href="https://melotac.github.io/site-modo-noturno/">
-https://melotac.github.io/site-modo-noturno/
+<a href="https://samdeoliveira.github.io/site-modo-noturno/">
+https://samdeoliveira.github.io/site-modo-noturno/
   <br>
 <img src="https://user-images.githubusercontent.com/98930037/152415521-bf4e4d3b-546b-44a8-a380-cc78f492cbbf.png" height="400" width="500">
